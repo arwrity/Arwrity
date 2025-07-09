@@ -1,11 +1,11 @@
-## Hi there 👋 I'm Aruzhan — a cybersecurity student, curious builder, and AI tinkerer.
+## Hi there 👋 I'm Aruzhan — a cybersecurity student, curious builder, and thinker.
 
 - 🔭 Currently working on: AI-powered assistants, security simulations, and eco-driven tech.
 - 🌱 Learning: how to design agents that actually solve real-world problems (and don't crash under pressure).
 - 🧠 Favorite stack: Python, Flask, Bash, Linux, and a sprinkle of Leaflet when maps are involved.
 - 🛠️ Pet project: EcoKoz — a platform to report and visualize local environmental issues.
 - 🤖 Built chatbots that talk like humans, gather leads, and ping your Telegram like pros.
-- 📬 Reach me via Telegram or LinkedIn — always up for brainstorming weird, useful ideas.
+- 📬 Reach me via Telegram or LinkedIn 
 
 > “The only way to get smarter is by playing a smarter opponent.” — Fundamentals of Chess, 1883
 
