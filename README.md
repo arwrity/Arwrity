@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aruzhan — a learning student, curious builder, and thinker.
+## Hi there 👋 I'm Aruzhan — a student, curious builder, and thinker.
 
 - 🔭 Currently working on: AI-powered assistants, security simulations, and eco-driven tech.
 - 🌱 Learning: how to design agents that actually solve real-world problems (and don't crash under pressure).
